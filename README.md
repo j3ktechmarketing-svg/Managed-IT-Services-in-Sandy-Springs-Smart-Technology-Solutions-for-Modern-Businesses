@@ -193,6 +193,9 @@ Locations served include Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, 
 | Managed IT Services |
 | Managed Wireless Network Services |
 | Data Center Services |
+|Structured Cabling Services|
+|Access Control Services|
+|Video Surveillance Services|
 
 ---
 
@@ -208,37 +211,55 @@ Locations served include Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, 
 | Decatur |
 | Johns Creek |
 | Duluth |
+|Lawrenceville	  |
+| Smyrna |
+| Woodstock |
+|Kennesaw  |
+| East Point |
+| Peachtree Corners |
+|Norcross |
+| Conyers Tucker |
+|Stone Mountain	|
+| Mableton |
+| Lithonia |
+|Doraville  |
+|Chamblee  |
+|Brookhaven  |
+|Vinings  |
+|Fairburn  |
+|Austell |
+|Perry	 |
+|Warner Robbins	|
+|Macon |
+
 
 ---
 
 ## Industries We Serve
 
-Industries :
-
-Healthcare
-Financial Services
-Education
-Legal
-Government and Public
-Retail
-Manufacturing and Industrial
-Hospitality
-Real Estate and Property Management
-Technology and Software
-Non-Profit Organizations
-Transportation and Logistics
-Construction and Engineering
-Telecommunications
-Media Advertising
-
----
-
-
-
-
+| Industries |
+|---|
+| Healthcare |
+| Financial Services |
+| Education |
+| Legal |
+| Government and Public|
+| Retail |
+| Manufacturing and Industrial |
+| Hospitality |
+| Real Estate and Property Management |
+| Technology and Software |
+| Non-Profit Organizations |
+| Real Estate and Property Management |
+| Technology and Software |
+| Transportation and Logistics |
+| Construction and Engineering |
+| Telecommunications |
+| Media Advertising |
 
 ## Contact  
-For inquiries and consultations, [connect here](https://www.j3ktech.com/contact-us/)  
+Contact J3K Technologies today to schedule a consultation for  Managed IT Support Services in Sandy Springs. Contact Us Today.
+ [connect here](https://www.j3ktech.com/contact-us/)  
 
 
 

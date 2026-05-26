@@ -258,8 +258,8 @@ Locations served include Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, 
 | Media Advertising |
 
 ## Contact  
-Contact J3K Technologies today to schedule a consultation for  Managed IT Support Services in Sandy Springs. Contact Us Today.
- [connect here](https://www.j3ktech.com/contact-us/)  
+[Contact J3K Technologies](https://www.j3ktech.com/contact-us/)  today to schedule a consultation for  Managed IT Support Services in Sandy Springs. 
+
 
 
 
